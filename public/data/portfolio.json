@@ -1,0 +1,497 @@
+{
+  "featured": [
+    {
+      "id": "featured-1",
+      "title": "屏盡全力",
+      "type": "video",
+      "videoUrl": "/portfolio/videos/廣告形象/屏盡全力.mp4",
+      "thumbnail": "/portfolio/images/人像拍攝/DSC00008.png",
+      "description": "精選作品展示"
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "人像拍攝 - DSC00008",
+      "category": "人像拍攝",
+      "type": "image",
+      "thumbnail": "/portfolio/images/人像拍攝/DSC00008.png",
+      "imageUrl": "/portfolio/images/人像拍攝/DSC00008.png",
+      "description": "專業人像攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-2",
+      "title": "人像拍攝 - DSC00105",
+      "category": "人像拍攝",
+      "type": "image",
+      "thumbnail": "/portfolio/images/人像拍攝/DSC00105.png",
+      "imageUrl": "/portfolio/images/人像拍攝/DSC00105.png",
+      "description": "專業人像攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-3",
+      "title": "人像拍攝 - IMG_0941",
+      "category": "人像拍攝",
+      "type": "image",
+      "thumbnail": "/portfolio/images/人像拍攝/IMG_0941.png",
+      "imageUrl": "/portfolio/images/人像拍攝/IMG_0941.png",
+      "description": "專業人像攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-4",
+      "title": "人像拍攝 - IMG_0946",
+      "category": "人像拍攝",
+      "type": "image",
+      "thumbnail": "/portfolio/images/人像拍攝/IMG_0946.png",
+      "imageUrl": "/portfolio/images/人像拍攝/IMG_0946.png",
+      "description": "專業人像攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-5",
+      "title": "人像拍攝 - IMG_1390",
+      "category": "人像拍攝",
+      "type": "image",
+      "thumbnail": "/portfolio/images/人像拍攝/IMG_1390.png",
+      "imageUrl": "/portfolio/images/人像拍攝/IMG_1390.png",
+      "description": "專業人像攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-6",
+      "title": "人像拍攝 - IMG_1408",
+      "category": "人像拍攝",
+      "type": "image",
+      "thumbnail": "/portfolio/images/人像拍攝/IMG_1408.png",
+      "imageUrl": "/portfolio/images/人像拍攝/IMG_1408.png",
+      "description": "專業人像攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-7",
+      "title": "品牌形象 - IMG_0050",
+      "category": "品牌形象",
+      "type": "image",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_0050.png",
+      "imageUrl": "/portfolio/images/品牌形象/IMG_0050.png",
+      "description": "品牌形象展示",
+      "year": 2025
+    },
+    {
+      "id": "project-8",
+      "title": "品牌形象 - IMG_0068_1",
+      "category": "品牌形象",
+      "type": "image",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_0068_1.png",
+      "imageUrl": "/portfolio/images/品牌形象/IMG_0068_1.png",
+      "description": "品牌形象展示",
+      "year": 2025
+    },
+    {
+      "id": "project-9",
+      "title": "品牌形象 - IMG_6481",
+      "category": "品牌形象",
+      "type": "image",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_6481.png",
+      "imageUrl": "/portfolio/images/品牌形象/IMG_6481.png",
+      "description": "品牌形象展示",
+      "year": 2025
+    },
+    {
+      "id": "project-10",
+      "title": "品牌形象 - IMG_7743",
+      "category": "品牌形象",
+      "type": "image",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_7743.png",
+      "imageUrl": "/portfolio/images/品牌形象/IMG_7743.png",
+      "description": "品牌形象展示",
+      "year": 2025
+    },
+    {
+      "id": "project-11",
+      "title": "品牌形象 - IMG_7760",
+      "category": "品牌形象",
+      "type": "image",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_7760.png",
+      "imageUrl": "/portfolio/images/品牌形象/IMG_7760.png",
+      "description": "品牌形象展示",
+      "year": 2025
+    },
+    {
+      "id": "project-12",
+      "title": "婚禮攝影 - VIC00292",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00292.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00292.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-13",
+      "title": "婚禮攝影 - VIC00301",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00301.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00301.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-14",
+      "title": "婚禮攝影 - VIC00379",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00379.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00379.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-15",
+      "title": "婚禮攝影 - VIC00393",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00393.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00393.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-16",
+      "title": "婚禮攝影 - VIC00459",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00459.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00459.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-17",
+      "title": "婚禮攝影 - VIC00554",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00554.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00554.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-18",
+      "title": "婚禮攝影 - VIC00693",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00693.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00693.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-19",
+      "title": "婚禮攝影 - VIC00830",
+      "category": "婚禮攝影",
+      "type": "image",
+      "thumbnail": "/portfolio/images/婚禮攝影/VIC00830.png",
+      "imageUrl": "/portfolio/images/婚禮攝影/VIC00830.png",
+      "description": "婚禮現場攝影記錄",
+      "year": 2025
+    },
+    {
+      "id": "project-20",
+      "title": "寫真 - DSC05696",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/DSC05696.png",
+      "imageUrl": "/portfolio/images/寫真/DSC05696.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-21",
+      "title": "寫真 - DSC05959",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/DSC05959.png",
+      "imageUrl": "/portfolio/images/寫真/DSC05959.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-22",
+      "title": "寫真 - DSC05976",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/DSC05976.png",
+      "imageUrl": "/portfolio/images/寫真/DSC05976.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-23",
+      "title": "寫真 - DSC06151",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/DSC06151.png",
+      "imageUrl": "/portfolio/images/寫真/DSC06151.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-24",
+      "title": "寫真 - DSC06229",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/DSC06229.png",
+      "imageUrl": "/portfolio/images/寫真/DSC06229.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-25",
+      "title": "寫真 - IMG_0589",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/IMG_0589.png",
+      "imageUrl": "/portfolio/images/寫真/IMG_0589.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-26",
+      "title": "寫真 - IMG_0687",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/IMG_0687.png",
+      "imageUrl": "/portfolio/images/寫真/IMG_0687.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-27",
+      "title": "寫真 - IMG_0712",
+      "category": "寫真",
+      "type": "image",
+      "thumbnail": "/portfolio/images/寫真/IMG_0712.png",
+      "imageUrl": "/portfolio/images/寫真/IMG_0712.png",
+      "description": "專業寫真拍攝",
+      "year": 2025
+    },
+    {
+      "id": "project-28",
+      "title": "活動紀錄 - DSC09333",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/DSC09333.png",
+      "imageUrl": "/portfolio/images/活動紀錄/DSC09333.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-29",
+      "title": "活動紀錄 - DSC09396",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/DSC09396.png",
+      "imageUrl": "/portfolio/images/活動紀錄/DSC09396.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-30",
+      "title": "活動紀錄 - DSC09399",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/DSC09399.png",
+      "imageUrl": "/portfolio/images/活動紀錄/DSC09399.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-31",
+      "title": "活動紀錄 - DSC09455",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/DSC09455.png",
+      "imageUrl": "/portfolio/images/活動紀錄/DSC09455.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-32",
+      "title": "活動紀錄 - DSC09548",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/DSC09548.png",
+      "imageUrl": "/portfolio/images/活動紀錄/DSC09548.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-33",
+      "title": "活動紀錄 - DSC09574",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/DSC09574.png",
+      "imageUrl": "/portfolio/images/活動紀錄/DSC09574.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-34",
+      "title": "活動紀錄 - IMG_6358",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/IMG_6358.png",
+      "imageUrl": "/portfolio/images/活動紀錄/IMG_6358.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-35",
+      "title": "活動紀錄 - IMG_6908",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/IMG_6908.png",
+      "imageUrl": "/portfolio/images/活動紀錄/IMG_6908.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-36",
+      "title": "活動紀錄 - IMG_7088",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/IMG_7088.png",
+      "imageUrl": "/portfolio/images/活動紀錄/IMG_7088.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-37",
+      "title": "活動紀錄 - IMG_7089",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/IMG_7089.png",
+      "imageUrl": "/portfolio/images/活動紀錄/IMG_7089.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-38",
+      "title": "活動紀錄 - IMG_7165",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/IMG_7165.png",
+      "imageUrl": "/portfolio/images/活動紀錄/IMG_7165.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-39",
+      "title": "活動紀錄 - IMG_7205",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/IMG_7205.png",
+      "imageUrl": "/portfolio/images/活動紀錄/IMG_7205.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-40",
+      "title": "活動紀錄 - IMG_7545",
+      "category": "活動紀錄",
+      "type": "image",
+      "thumbnail": "/portfolio/images/活動紀錄/IMG_7545.png",
+      "imageUrl": "/portfolio/images/活動紀錄/IMG_7545.png",
+      "description": "活動現場紀錄攝影",
+      "year": 2025
+    },
+    {
+      "id": "project-41",
+      "title": "空間攝影 - VIC00028",
+      "category": "空間",
+      "type": "image",
+      "thumbnail": "/portfolio/images/空間攝影/VIC00028.jpg",
+      "imageUrl": "/portfolio/images/空間攝影/VIC00028.jpg",
+      "description": "建築空間攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-42",
+      "title": "空間攝影 - VIC00031",
+      "category": "空間",
+      "type": "image",
+      "thumbnail": "/portfolio/images/空間攝影/VIC00031.jpg",
+      "imageUrl": "/portfolio/images/空間攝影/VIC00031.jpg",
+      "description": "建築空間攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-43",
+      "title": "空間攝影 - VIC00116",
+      "category": "空間",
+      "type": "image",
+      "thumbnail": "/portfolio/images/空間攝影/VIC00116.jpg",
+      "imageUrl": "/portfolio/images/空間攝影/VIC00116.jpg",
+      "description": "建築空間攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-44",
+      "title": "空間攝影 - VIC00153",
+      "category": "空間",
+      "type": "image",
+      "thumbnail": "/portfolio/images/空間攝影/VIC00153.jpg",
+      "imageUrl": "/portfolio/images/空間攝影/VIC00153.jpg",
+      "description": "建築空間攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-45",
+      "title": "空間攝影 - VIC09991",
+      "category": "空間",
+      "type": "image",
+      "thumbnail": "/portfolio/images/空間攝影/VIC09991.jpg",
+      "imageUrl": "/portfolio/images/空間攝影/VIC09991.jpg",
+      "description": "建築空間攝影作品",
+      "year": 2025
+    },
+    {
+      "id": "project-46",
+      "title": "屏盡全力",
+      "category": "廣告形象",
+      "type": "video",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_0050.png",
+      "videoUrl": "/portfolio/videos/廣告形象/屏盡全力.mp4",
+      "duration": "1:00",
+      "description": "廣告形象影片製作",
+      "year": 2025
+    },
+    {
+      "id": "project-47",
+      "title": "衛生局年度形象影片",
+      "category": "廣告形象",
+      "type": "video",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_0068_1.png",
+      "videoUrl": "/portfolio/videos/廣告形象/衛生局年度形象影片.mp4",
+      "duration": "2:30",
+      "description": "政府單位形象影片製作",
+      "year": 2025
+    },
+    {
+      "id": "project-48",
+      "title": "無塵室清潔作業數位教材",
+      "category": "企業形象",
+      "type": "video",
+      "thumbnail": "/portfolio/images/品牌形象/IMG_7743.png",
+      "videoUrl": "/portfolio/videos/企業形象/無塵室清潔作業數位教材.mp4",
+      "duration": "8:45",
+      "description": "企業培訓教材影片製作",
+      "year": 2025
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --no-git -y)",
+      "Bash(brew install *)",
+      "Bash(npm --version)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --no-git --use-npm -y)",
+      "Read(//Users/Dawn/Desktop/Project/**)",
+      "Bash(rm -rf portfolio)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(npm install *)",
+      "Bash(curl -s -I http://localhost:3000)",
+      "WebFetch(domain:www.sola-production.com)",
+      "Bash(ipconfig getifaddr *)",
+      "Bash(awk '{print $2}')",
+      "Bash(npx vercel *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git config *)",
+      "Bash(grep -v \"^$\")",
+      "Bash(npm cache *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(npx plugins *)",
+      "Bash(tee deploy.log)",
+      "Bash(git rm *)"
+    ]
+  }
+}
